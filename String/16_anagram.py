@@ -3,7 +3,7 @@
 def anagram(str1,str2):
     if len(str1)!=len(str2):
         return False
-    
+       
     for ele in str1:
         count1 = 0
         count2 = 0
