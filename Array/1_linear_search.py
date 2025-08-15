@@ -14,7 +14,7 @@ target = 3
 
 ans = linear_search(list1,target)
 
-if ans==True:
+if ans:
     print("found")
 else:
     print("Not Found")
