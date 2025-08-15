@@ -1,3 +1,5 @@
+# 1.Search the element in an array (Linear search)
+
 def linear_search(list1,target):
     s = 0
     e = len(list1)-1

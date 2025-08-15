@@ -1,3 +1,5 @@
+# 1.Search the element in an array (Binary search)
+
 def binary_search(list1,target):
     list1 = sorted(list1)
     s = 0
